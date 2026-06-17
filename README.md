@@ -41,6 +41,14 @@ This project is an AI-powered Network Intrusion Detection System (NIDS) develope
 - Deep learning-based threat detection
 - Automated alert notifications
 
+## Screenshots of the results are attached
+
+## Author
+
+Developed by Dhanushree U Shetty
+
+This project was designed and implemented as an academic cybersecurity project using Python, machine learning, and network analysis techniques. AI-assisted tools were used for guidance, research, debugging, and improving the implementation. The final project development, testing, and understanding of the system were carried out by the author.
+
 ## Disclaimer
 
 This project was developed for educational and academic purposes. Attack simulation scripts are intended only for controlled testing environments.
